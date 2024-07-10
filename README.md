@@ -6,7 +6,7 @@
 - Añadir un filtro por categoría. ✅ 
 - Añadir un filtro por precio. ✅ 
 
-Hacer uso de useContext para evitar pasar props innecesarias.
+Hacer uso de useContext para evitar pasar props innecesarias. ✅ 
 
 2. Shopping Cart
 
